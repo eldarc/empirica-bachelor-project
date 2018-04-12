@@ -3,6 +3,7 @@ const path = require('path')
 const utils = require('./utils')
 const config = require('../config')
 const vueLoaderConfig = require('./vue-loader.conf')
+const StringReplacePlugin = require("string-replace-webpack-plugin")
 
 function resolve (dir) {
   return path.join(__dirname, '..', dir)
@@ -79,6 +80,32 @@ module.exports = {
           limit: 10000,
           name: utils.assetsPath('fonts/[name].[hash:7].[ext]')
         }
+      },
+      {
+        test: /\.(vue)$/,
+        loader: StringReplacePlugin.replace({
+          replacements: [
+            {
+              pattern: /[:|\s*]to-l\s*=\s*"((?:[^"\\]|\\.)*)"|[:|\s*]to-l\s*=\s*'((?:[^'\\]|\\.)*)'/giu,
+              replacement: function (match, p1, offset, string) {
+                if (p1 && p1.length > 0) {
+                  const IS_BIND = match.charAt(0) === ':'
+
+                  if (IS_BIND) {
+                    return ':to="$localeLink(' + p1 + ')"'
+                  } else {
+                    if (p1.charAt(0) === "'" && p1.charAt(p1.length - 1) === "'") {
+                      return ' :to="$localeLink(\'\\\'' +  p1.substring(1, p1.length - 1) + '\\\'\')"'
+                    }
+
+                    return ' :to="$localeLink(\'' + p1 + '\')"'
+                  }
+                }
+
+                return match
+              }
+            }
+          ]})
       }
     ]
   },

@@ -2,10 +2,10 @@
   <div class="container py-5">
     <div class="row">
       <div class="col-12">
-        <translate tag="h1" class="text-center">O nama</translate>
+        <translate tag="h1" class="text-center">O eCampusu</translate>
       </div>
       <div class="col-12" v-translate md>
-        ABOUT_US_TEXT
+        ECAMPUS_TEXT
       </div>
     </div>
   </div>

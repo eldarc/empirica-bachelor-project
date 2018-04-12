@@ -1,3 +1,62 @@
 msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
+
+#: src/pages/AboutUs.vue:7
+msgid "ABOUT_US_TEXT"
+msgstr ""
+
+#: src/pages/Business.vue:7
+msgid "BUSINESS_TEXT"
+msgstr ""
+
+#: src/pages/Home.vue:10
+msgid "Cijenjeni studenti, poštovani roditelji, drage kolege, uvaženi saradnici,<br><br> Visoka škola računarstva i poslovnih komunikacija eMPIRICA je moderna obrazovna i naučna institucija, koja radi na razvoju prestižnog imidža njegujući visok stepen akademskih, ljudskih i institucionalnih vrijednosti, oslanjajući se na sopstvene resurse. Težimo najvišem kvalitetu nastave, podizanju standarda studiranja, razvoju naučno-istraživačkog rada, razvoju i primjeni nastavnih planova i programa prema Bolonjskim principima i zahtjevima tržišta rada, osiguranju kvaliteta i podizanju moralnih vrijednosti kod svakog pojedinca, kako studenta, tako i nastavnika. Dvojne BiH-SLO diplome, naučna znanja i stručne vještine, te edukacija u oblasti priznatih industrijskih certifikata, koje naši studenti stiču na Visokoj školi računarstva i poslovnih komunikacija eMPIRICA omogućava im da zaposlenje biraju u Bosni i Hercegovini, zemljama regiona, kao i zemljama Evropske Unije i širom svijeta.<br><br> 87% naših diplomiran studenata je svoje prvo zaposlenje u struci pronašlo u roku od 3 mjeseca od diplomiranja, značajan broj njih se zaposlilo u IT firmama u kojima su boravili tokom praktičnog obrazovanja u VI. semestru studija, a također značajan broj njih radi za strane IT kompanije."
+msgstr ""
+
+#: src/pages/Home.vue:5
+msgid "Dobro došli na našu web stranicu"
+msgstr ""
+
+#: src/components/Navigation.vue:28
+msgid "eCampus"
+msgstr ""
+
+#: src/pages/Ecampus.vue:7
+msgid "ECAMPUS_TEXT"
+msgstr ""
+
+#: src/components/Footer.vue:5
+msgid "Eldar Ćejvanović - Završni rad: Demonstracija SPA prerendering-a parsirajući Vue.js router."
+msgstr ""
+
+#: src/pages/Engineering.vue:7
+msgid "ENGINEERING_TEXT"
+msgstr ""
+
+#: src/components/Navigation.vue:21
+#: src/pages/Engineering.vue:5
+msgid "Inženjerska informatika"
+msgstr ""
+
+#: src/pages/Ecampus.vue:5
+msgid "O eCampusu"
+msgstr ""
+
+#: src/components/Navigation.vue:17
+#: src/pages/AboutUs.vue:5
+msgid "O nama"
+msgstr ""
+
+#: src/components/Navigation.vue:14
+msgid "Početna"
+msgstr ""
+
+#: src/components/Navigation.vue:24
+#: src/pages/Business.vue:5
+msgid "Poslovna informatika"
+msgstr ""
+
+#: src/components/Navigation.vue:47
+msgid "Studijski programi"
+msgstr ""

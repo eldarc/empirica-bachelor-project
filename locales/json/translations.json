@@ -1,8 +1,178 @@
 {
 	"en": {
-		"$$NOCONTEXT": {}
+		"$$NOCONTEXT": {
+			"ABOUT_US_TEXT": {
+				"msgid": "ABOUT_US_TEXT",
+				"msgstr": [
+					""
+				]
+			},
+			"BUSINESS_TEXT": {
+				"msgid": "BUSINESS_TEXT",
+				"msgstr": [
+					""
+				]
+			},
+			"Cijenjeni studenti, poštovani roditelji, drage kolege, uvaženi saradnici,<br><br> Visoka škola računarstva i poslovnih komunikacija eMPIRICA je moderna obrazovna i naučna institucija, koja radi na razvoju prestižnog imidža njegujući visok stepen akademskih, ljudskih i institucionalnih vrijednosti, oslanjajući se na sopstvene resurse. Težimo najvišem kvalitetu nastave, podizanju standarda studiranja, razvoju naučno-istraživačkog rada, razvoju i primjeni nastavnih planova i programa prema Bolonjskim principima i zahtjevima tržišta rada, osiguranju kvaliteta i podizanju moralnih vrijednosti kod svakog pojedinca, kako studenta, tako i nastavnika. Dvojne BiH-SLO diplome, naučna znanja i stručne vještine, te edukacija u oblasti priznatih industrijskih certifikata, koje naši studenti stiču na Visokoj školi računarstva i poslovnih komunikacija eMPIRICA omogućava im da zaposlenje biraju u Bosni i Hercegovini, zemljama regiona, kao i zemljama Evropske Unije i širom svijeta.<br><br> 87% naših diplomiran studenata je svoje prvo zaposlenje u struci pronašlo u roku od 3 mjeseca od diplomiranja, značajan broj njih se zaposlilo u IT firmama u kojima su boravili tokom praktičnog obrazovanja u VI. semestru studija, a također značajan broj njih radi za strane IT kompanije.": {
+				"msgid": "Cijenjeni studenti, poštovani roditelji, drage kolege, uvaženi saradnici,<br><br> Visoka škola računarstva i poslovnih komunikacija eMPIRICA je moderna obrazovna i naučna institucija, koja radi na razvoju prestižnog imidža njegujući visok stepen akademskih, ljudskih i institucionalnih vrijednosti, oslanjajući se na sopstvene resurse. Težimo najvišem kvalitetu nastave, podizanju standarda studiranja, razvoju naučno-istraživačkog rada, razvoju i primjeni nastavnih planova i programa prema Bolonjskim principima i zahtjevima tržišta rada, osiguranju kvaliteta i podizanju moralnih vrijednosti kod svakog pojedinca, kako studenta, tako i nastavnika. Dvojne BiH-SLO diplome, naučna znanja i stručne vještine, te edukacija u oblasti priznatih industrijskih certifikata, koje naši studenti stiču na Visokoj školi računarstva i poslovnih komunikacija eMPIRICA omogućava im da zaposlenje biraju u Bosni i Hercegovini, zemljama regiona, kao i zemljama Evropske Unije i širom svijeta.<br><br> 87% naših diplomiran studenata je svoje prvo zaposlenje u struci pronašlo u roku od 3 mjeseca od diplomiranja, značajan broj njih se zaposlilo u IT firmama u kojima su boravili tokom praktičnog obrazovanja u VI. semestru studija, a također značajan broj njih radi za strane IT kompanije.",
+				"msgstr": [
+					"Dear students and parents, distinguished colleagues and associates<br><br>\n\nCollege of Computer Science and Business Communications eMPIRICA is a modern educational and scientific institution, which works on the development of a prestigious image nourishing a high level of academic, human and institutionalised values and relies on their own resources. We strive to high quality teaching, raising standards of studying, developing scientific research, developing and applying curricula according to Bologna principles and labour markets demands, ensuring good quality and nurturing moral values with every individual, both students and teachers.<br><br>\n\nDegrees, scientific knowledge and skills, as well as education in the field of acknowledged industry certification acquired upon graduation from College of Computer Science and Business Communications eMPIRICA will enable them to choose an employment in BiH, regional countries and EU countries."
+				]
+			},
+			"Dobro došli na našu web stranicu": {
+				"msgid": "Dobro došli na našu web stranicu",
+				"msgstr": [
+					"Welcome to our website"
+				]
+			},
+			"eCampus": {
+				"msgid": "eCampus",
+				"msgstr": [
+					"eCampus"
+				]
+			},
+			"ECAMPUS_TEXT": {
+				"msgid": "ECAMPUS_TEXT",
+				"msgstr": [
+					""
+				]
+			},
+			"Eldar Ćejvanović - Završni rad: Demonstracija SPA prerendering-a parsirajući Vue.js router.": {
+				"msgid": "Eldar Ćejvanović - Završni rad: Demonstracija SPA prerendering-a parsirajući Vue.js router.",
+				"msgstr": [
+					"Eldar Cejvanovic’s bachelor project: Deomnstration of SPA prerendering by parsing the Vue.js router."
+				]
+			},
+			"ENGINEERING_TEXT": {
+				"msgid": "ENGINEERING_TEXT",
+				"msgstr": [
+					""
+				]
+			},
+			"Inženjerska informatika": {
+				"msgid": "Inženjerska informatika",
+				"msgstr": [
+					"Engineering Informatics"
+				]
+			},
+			"O eCampusu": {
+				"msgid": "O eCampusu",
+				"msgstr": [
+					"About eCampus"
+				]
+			},
+			"O nama": {
+				"msgid": "O nama",
+				"msgstr": [
+					"About us"
+				]
+			},
+			"Početna": {
+				"msgid": "Početna",
+				"msgstr": [
+					"Home"
+				]
+			},
+			"Poslovna informatika": {
+				"msgid": "Poslovna informatika",
+				"msgstr": [
+					"Business Informatics"
+				]
+			},
+			"Studijski programi": {
+				"msgid": "Studijski programi",
+				"msgstr": [
+					"Study programmes"
+				]
+			}
+		}
 	},
 	"bs": {
-		"$$NOCONTEXT": {}
+		"$$NOCONTEXT": {
+			"ABOUT_US_TEXT": {
+				"msgid": "ABOUT_US_TEXT",
+				"msgstr": [
+					""
+				]
+			},
+			"BUSINESS_TEXT": {
+				"msgid": "BUSINESS_TEXT",
+				"msgstr": [
+					""
+				]
+			},
+			"Cijenjeni studenti, poštovani roditelji, drage kolege, uvaženi saradnici,<br><br> Visoka škola računarstva i poslovnih komunikacija eMPIRICA je moderna obrazovna i naučna institucija, koja radi na razvoju prestižnog imidža njegujući visok stepen akademskih, ljudskih i institucionalnih vrijednosti, oslanjajući se na sopstvene resurse. Težimo najvišem kvalitetu nastave, podizanju standarda studiranja, razvoju naučno-istraživačkog rada, razvoju i primjeni nastavnih planova i programa prema Bolonjskim principima i zahtjevima tržišta rada, osiguranju kvaliteta i podizanju moralnih vrijednosti kod svakog pojedinca, kako studenta, tako i nastavnika. Dvojne BiH-SLO diplome, naučna znanja i stručne vještine, te edukacija u oblasti priznatih industrijskih certifikata, koje naši studenti stiču na Visokoj školi računarstva i poslovnih komunikacija eMPIRICA omogućava im da zaposlenje biraju u Bosni i Hercegovini, zemljama regiona, kao i zemljama Evropske Unije i širom svijeta.<br><br> 87% naših diplomiran studenata je svoje prvo zaposlenje u struci pronašlo u roku od 3 mjeseca od diplomiranja, značajan broj njih se zaposlilo u IT firmama u kojima su boravili tokom praktičnog obrazovanja u VI. semestru studija, a također značajan broj njih radi za strane IT kompanije.": {
+				"msgid": "Cijenjeni studenti, poštovani roditelji, drage kolege, uvaženi saradnici,<br><br> Visoka škola računarstva i poslovnih komunikacija eMPIRICA je moderna obrazovna i naučna institucija, koja radi na razvoju prestižnog imidža njegujući visok stepen akademskih, ljudskih i institucionalnih vrijednosti, oslanjajući se na sopstvene resurse. Težimo najvišem kvalitetu nastave, podizanju standarda studiranja, razvoju naučno-istraživačkog rada, razvoju i primjeni nastavnih planova i programa prema Bolonjskim principima i zahtjevima tržišta rada, osiguranju kvaliteta i podizanju moralnih vrijednosti kod svakog pojedinca, kako studenta, tako i nastavnika. Dvojne BiH-SLO diplome, naučna znanja i stručne vještine, te edukacija u oblasti priznatih industrijskih certifikata, koje naši studenti stiču na Visokoj školi računarstva i poslovnih komunikacija eMPIRICA omogućava im da zaposlenje biraju u Bosni i Hercegovini, zemljama regiona, kao i zemljama Evropske Unije i širom svijeta.<br><br> 87% naših diplomiran studenata je svoje prvo zaposlenje u struci pronašlo u roku od 3 mjeseca od diplomiranja, značajan broj njih se zaposlilo u IT firmama u kojima su boravili tokom praktičnog obrazovanja u VI. semestru studija, a također značajan broj njih radi za strane IT kompanije.",
+				"msgstr": [
+					""
+				]
+			},
+			"Dobro došli na našu web stranicu": {
+				"msgid": "Dobro došli na našu web stranicu",
+				"msgstr": [
+					""
+				]
+			},
+			"eCampus": {
+				"msgid": "eCampus",
+				"msgstr": [
+					""
+				]
+			},
+			"ECAMPUS_TEXT": {
+				"msgid": "ECAMPUS_TEXT",
+				"msgstr": [
+					""
+				]
+			},
+			"Eldar Ćejvanović - Završni rad: Demonstracija SPA prerendering-a parsirajući Vue.js router.": {
+				"msgid": "Eldar Ćejvanović - Završni rad: Demonstracija SPA prerendering-a parsirajući Vue.js router.",
+				"msgstr": [
+					""
+				]
+			},
+			"ENGINEERING_TEXT": {
+				"msgid": "ENGINEERING_TEXT",
+				"msgstr": [
+					""
+				]
+			},
+			"Inženjerska informatika": {
+				"msgid": "Inženjerska informatika",
+				"msgstr": [
+					""
+				]
+			},
+			"O eCampusu": {
+				"msgid": "O eCampusu",
+				"msgstr": [
+					""
+				]
+			},
+			"O nama": {
+				"msgid": "O nama",
+				"msgstr": [
+					""
+				]
+			},
+			"Početna": {
+				"msgid": "Početna",
+				"msgstr": [
+					""
+				]
+			},
+			"Poslovna informatika": {
+				"msgid": "Poslovna informatika",
+				"msgstr": [
+					""
+				]
+			},
+			"Studijski programi": {
+				"msgid": "Studijski programi",
+				"msgstr": [
+					""
+				]
+			}
+		}
 	}
 }
