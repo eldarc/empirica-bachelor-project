@@ -4,13 +4,13 @@
 			"ABOUT_US_TEXT": {
 				"msgid": "ABOUT_US_TEXT",
 				"msgstr": [
-					""
+					"Keeping pace with the world’s modern standards, legislation and academic framework College of Computer Science and Business Communications eMPIRICA will conduct study programmes with respect to the Bologna reform, adhering to the top European and world standards, academic principles and high moral values, producing highly marketable labour force of young IT experts capable of making an impact on the development of their environment.\n\nVocational study principle at the institution of higher education is to ensure a high-quality teaching material to future experts who will in their everyday work, based on the theoretical and practical knowledge and skills acquired in the course of their studies, apply their knowledge and competence to create an added value. The specificity of the IT study is the level of practical and applied knowledge necessary for everyday work. Upon graduating from College of Computer Science and Business Communications eMPIRICA, graduates will be able to immediately take on important tasks and be directly involved in all working processes.\n\nStudying while working is one of the greatest advantages of distance learning because it enables independence and, therefore, the possibility to perform tasks and be part of the education process without difficulties, which provides an opportunity to acquire a higher education degree to those who cannot study the traditional way due to work responsibilities.\n\nThe dual diploma enables graduates of College of Computer Science and Business Communications eMPIRICA to gain employment in the regional countries as well as those of the EU, which boosts this institution of higher education with an important strategic advantage.\n\nThe concept of studying where students gain knowledge necessary for acquirement of industrially acknowledged certificates gives this institution an additional advantage."
 				]
 			},
 			"BUSINESS_TEXT": {
 				"msgid": "BUSINESS_TEXT",
 				"msgstr": [
-					""
+					"Study programme Business Informatics at the College of Computer Science and Business education eMPIRICA in Brcko district BiH is the only Business Informatics study program in BiH which offers to students a dual diploma upon graduation- a degree issued by a licensed higher education institution from BiH (eMPIRICA College) and a degree issued by an accredited higher education institution from the EU (Ljubljana School of Business)."
 				]
 			},
 			"Cijenjeni studenti, poštovani roditelji, drage kolege, uvaženi saradnici,<br><br> Visoka škola računarstva i poslovnih komunikacija eMPIRICA je moderna obrazovna i naučna institucija, koja radi na razvoju prestižnog imidža njegujući visok stepen akademskih, ljudskih i institucionalnih vrijednosti, oslanjajući se na sopstvene resurse. Težimo najvišem kvalitetu nastave, podizanju standarda studiranja, razvoju naučno-istraživačkog rada, razvoju i primjeni nastavnih planova i programa prema Bolonjskim principima i zahtjevima tržišta rada, osiguranju kvaliteta i podizanju moralnih vrijednosti kod svakog pojedinca, kako studenta, tako i nastavnika. Dvojne BiH-SLO diplome, naučna znanja i stručne vještine, te edukacija u oblasti priznatih industrijskih certifikata, koje naši studenti stiču na Visokoj školi računarstva i poslovnih komunikacija eMPIRICA omogućava im da zaposlenje biraju u Bosni i Hercegovini, zemljama regiona, kao i zemljama Evropske Unije i širom svijeta.<br><br> 87% naših diplomiran studenata je svoje prvo zaposlenje u struci pronašlo u roku od 3 mjeseca od diplomiranja, značajan broj njih se zaposlilo u IT firmama u kojima su boravili tokom praktičnog obrazovanja u VI. semestru studija, a također značajan broj njih radi za strane IT kompanije.": {
@@ -34,7 +34,7 @@
 			"ECAMPUS_TEXT": {
 				"msgid": "ECAMPUS_TEXT",
 				"msgstr": [
-					""
+					"eCampus is an e-learning platform at College of Computer Science and Business Communications eMPIRICA, Brcko District BiH, primarily intended for conducting distance learning study programmes. eCampus is a verified platform taken from our co-founders from Ljubljana, who successfully conduct distance learning via it for 10 years. eCampus system enables:\n- reliable teaching and testing process via Internet (LMS - Learning Management System)\n- simple creation of e-materials (LCMS – Learning Content Management System)."
 				]
 			},
 			"Eldar Ćejvanović - Završni rad: Demonstracija SPA prerendering-a parsirajući Vue.js router.": {
@@ -46,7 +46,7 @@
 			"ENGINEERING_TEXT": {
 				"msgid": "ENGINEERING_TEXT",
 				"msgstr": [
-					""
+					"Study programme Engineering Informatics at the College of Computer Science and Business Communications eMPIRICA in Brcko District of BiH is the only engineering informatics study programme in BiH which enables students to attend Cisco Academy programme free of charge within the studies ( 4 semesters in Cisco Academy are content-wise transposed into 4 courses of the programme study), which prepares them for passing the exam and acquiring  Cisco certificate, one of the most distinguished industry certificates in the world in the network technology sphere."
 				]
 			},
 			"Inženjerska informatika": {
@@ -92,13 +92,13 @@
 			"ABOUT_US_TEXT": {
 				"msgid": "ABOUT_US_TEXT",
 				"msgstr": [
-					""
+					"Slijedeći moderne svjetske standarde i prakse, zakonsku regulativu i akademski okvir, Visoka škola računarstva i poslovnih komunikacija eMPIRICA izvodi studij u skladu s Bolonjskom reformom, po najvišim evropskim i svjetskim standardima, na principima akademizma i prema visokim moralnim vrijednostima, proizvodeći tržišno poželjan kadar mladih informatičkih stručnjaka osposobljenih da utiču na razvoj okruženja.\n\nPrincip specijalističkog studija na visokoškolskoj ustanovi jeste da obezbijedi visok kvalitet nastavnih sadržaja budućim stručnjacima koji će u svom budućem svakodnevnom radu, na osnovu teoretskih i praktičnih znanja i vještina stečenih tokom studija, primjenjivati znanja i kompetencije i stvarati dodatnu vrijednost. Specifičnost informatičkog studija jeste u nivou stečenih praktičnih i primjenjivih znanja potrebnih za svakodnevan rad. Nakon završetka Visoke škole računarstva i poslovnih komunikacija eMPIRICA, diplomci će biti u stanju odmah preuzeti važne radne zadatke i direktno se uključiti u sve radne procese.\n\nStudiranje uz rad je jedna od najvećih pogodnosti studiranja na daljinu, jer omogućava neovisnost, dakle mogućnost izvršavanja radnih zadataka, i neometano prisustvo nastavnom procesu, što pruža mogućnost visokoškolskog obrazovanja onima koji zbog radnih ili drugih obaveza ne mogu studirati na klasičan način.\n\nDvojna bosanskohercegovačko-slovenačka diploma omogućit će diplomcima Visoke škole računarstva i poslovnih komunikacija eMPIRICA zapošljavanje u zemljama regiona, kao i zemljama Evropske Unije, što ovoj visokoškolskoj instituciji daje bitnu stratešku prednost. \n\nKoncept studiranja u kom studenti usvajaju i znanja potrebna za stjecanje priznatih industrijskih certifikata daje dodatnu vrijednost ovoj visokoškolskoj instituciji."
 				]
 			},
 			"BUSINESS_TEXT": {
 				"msgid": "BUSINESS_TEXT",
 				"msgstr": [
-					""
+					"Studijski program Poslovna informatika na Visokoj školi računarstva i poslovnih komunikacija eMPIRICA u Brčko distriktu BiH je jedini studijski program poslovne informatike u BiH koji studentima nudi dvojnu diplomu po završetku studija -diplomu licencirane visokoškolske institucije iz BiH  (Visoka škola eMPIRICA) i diplomu akreditirane visokoškolske institucije iz EU (Ljubljana School of Business)."
 				]
 			},
 			"Cijenjeni studenti, poštovani roditelji, drage kolege, uvaženi saradnici,<br><br> Visoka škola računarstva i poslovnih komunikacija eMPIRICA je moderna obrazovna i naučna institucija, koja radi na razvoju prestižnog imidža njegujući visok stepen akademskih, ljudskih i institucionalnih vrijednosti, oslanjajući se na sopstvene resurse. Težimo najvišem kvalitetu nastave, podizanju standarda studiranja, razvoju naučno-istraživačkog rada, razvoju i primjeni nastavnih planova i programa prema Bolonjskim principima i zahtjevima tržišta rada, osiguranju kvaliteta i podizanju moralnih vrijednosti kod svakog pojedinca, kako studenta, tako i nastavnika. Dvojne BiH-SLO diplome, naučna znanja i stručne vještine, te edukacija u oblasti priznatih industrijskih certifikata, koje naši studenti stiču na Visokoj školi računarstva i poslovnih komunikacija eMPIRICA omogućava im da zaposlenje biraju u Bosni i Hercegovini, zemljama regiona, kao i zemljama Evropske Unije i širom svijeta.<br><br> 87% naših diplomiran studenata je svoje prvo zaposlenje u struci pronašlo u roku od 3 mjeseca od diplomiranja, značajan broj njih se zaposlilo u IT firmama u kojima su boravili tokom praktičnog obrazovanja u VI. semestru studija, a također značajan broj njih radi za strane IT kompanije.": {
@@ -122,7 +122,7 @@
 			"ECAMPUS_TEXT": {
 				"msgid": "ECAMPUS_TEXT",
 				"msgstr": [
-					""
+					"eCAMPUS je platforma za e-učenje Visoke škole računarstva i poslovnih komunikacija eMPIRICA u Brčko distriktu BiH namijenjena prvenstveno za izvođenje studijskih programa na daljinu. eCampus je provjerena platforma preuzeta od naših suosnivača iz Ljubljane, koji već 10 godina putem nje uspješno realizuju studij na daljinu. Sistem eCampus omogućava:\n- pouzdano izvođenje obrazovanja i testiranja putem Interneta (LMS – Learning Management System)\n- jednostavnu izradu vlastiti interaktivnih e-gradiva (LCMS – Learning Content Management System)."
 				]
 			},
 			"Eldar Ćejvanović - Završni rad: Demonstracija SPA prerendering-a parsirajući Vue.js router.": {
@@ -134,7 +134,7 @@
 			"ENGINEERING_TEXT": {
 				"msgid": "ENGINEERING_TEXT",
 				"msgstr": [
-					""
+					"Studijski program Inženjerska informatika na Visokoj školi računarstva i poslovnih komunikacija eMPIRICA u Brčko distriktu BiH je jedini studijski program inženjerske informatike u BiH koji studentima omogućava besplatno pohađanje programa Cisco akademije u okviru samog studija (4 semestra Cisco akademije su sadržajno preslikana u 4 predmeta studijskog programa), a koji ih priprema za uspješno polaganje Cisco certifikata, jednog od najcjenjenijih industrijskih certifikata u svijetu u oblasti mrežnih tehnologija."
 				]
 			},
 			"Inženjerska informatika": {

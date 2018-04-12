@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
+import Meta from 'vue-meta'
 
 // Pages
 import Home from '@/pages/Home'
@@ -9,6 +10,7 @@ import Business from '@/pages/Business'
 import Ecampus from '@/pages/Ecampus'
 
 Vue.use(Router)
+Vue.use(Meta)
 
 export default new Router({
   mode: 'history',

@@ -17,6 +17,10 @@ export default {
   components: {
     AppNavigation,
     AppFooter
+  },
+  metaInfo: {
+    title: 'Početna',
+    titleTemplate: '%s | My Awesome Webapp'
   }
 }
 </script>
