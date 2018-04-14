@@ -32,7 +32,7 @@
         <!-- Right aligned nav items -->
         <b-navbar-nav class="ml-auto app-navbar__language-selector">
           <span v-if="$i18n.activeLocale === 'bs'" @click="$changeLocale('en')">English</span>
-          <span v-else @click="$changeLocale('bs')">B/H/S jezik</span>
+          <span v-else @click="$changeLocale('bs')">b/h/s jezik</span>
         </b-navbar-nav>
 
       </b-collapse>
