@@ -15,3 +15,53 @@
     </div>
   </div>
 </template>
+
+<script>
+export default {
+  metaInfo () {
+    return {
+      title: this.pageTitle,
+      meta: [
+        {
+          vmid: 'og:title',
+          property: 'og:title',
+          content: this.pageTitle,
+          template: chunk => this.titleTemplate.replace('%s', chunk)
+        },
+        {
+          vmid: 'og:description',
+          property: 'og:description',
+          content: this.ogDescription
+        },
+        {
+          vmid: 'og:image',
+          property: 'og:image',
+          content: this.ogImage
+        },
+        {
+          vmid: 'og:url',
+          property: 'og:url',
+          content: this.ogUrl
+        }
+      ]
+    }
+  },
+  computed: {
+    titleTemplate () {
+      return this.$gettext('%s | eMPIRICA - Visoka škola računarstva i poslovnih komunikacija')
+    },
+    pageTitle () {
+      return this.$gettext('Početna')
+    },
+    ogDescription () {
+      return this.$gettext('Visoka škola računarstva i poslovnih komunikacija eMPIRICA u Brčkom i Tuzli predstavlja modernu obrazovnu i naučnu instituciju, koja permanentno radi na razvoju prestižnog imidža njegujući visok stepen akademskih, ljudskih i institucionalnih vrijednosti.')
+    },
+    ogImage () {
+      return 'https://20413c71.ngrok.io' + '/static/social/' + this.$i18n.activeLocale + '/test1.png'
+    },
+    ogUrl () {
+      return 'https://eldarempirica.ws' + this.$route.fullPath
+    }
+  }
+}
+</script>

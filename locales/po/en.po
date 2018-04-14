@@ -11,6 +11,15 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 2.0.6\n"
 
+#: src/App.vue:28
+#: src/pages/AboutUs.vue:46
+#: src/pages/Business.vue:46
+#: src/pages/Ecampus.vue:46
+#: src/pages/Engineering.vue:46
+#: src/pages/Home.vue:51
+msgid "%s | eMPIRICA - Visoka škola računarstva i poslovnih komunikacija"
+msgstr "%s | eMPIRICA - College of Computer Science and Business Communications"
+
 #: src/pages/AboutUs.vue:7
 msgid "ABOUT_US_TEXT"
 msgstr ""
@@ -46,6 +55,7 @@ msgstr ""
 "acquirement of industrially acknowledged certificates gives this "
 "institution an additional advantage."
 
+#: src/pages/Business.vue:52
 #: src/pages/Business.vue:7
 msgid "BUSINESS_TEXT"
 msgstr ""
@@ -99,8 +109,17 @@ msgid "Dobro došli na našu web stranicu"
 msgstr "Welcome to our website"
 
 #: src/components/Navigation.vue:28
+#: src/pages/Ecampus.vue:49
 msgid "eCampus"
 msgstr "eCampus"
+
+#: src/pages/Ecampus.vue:52
+msgid ""
+"eCampus je provjerena platforma preuzeta od naših suosnivača iz Ljubljane, "
+"koji već 10 godina putem nje uspješno realizuju studij na daljinu."
+msgstr ""
+"eCampus is a verified platform taken from our co-founders from Ljubljana, "
+"who successfully conduct distance learning via it for 10 years."
 
 #: src/pages/Ecampus.vue:7
 msgid "ECAMPUS_TEXT"
@@ -123,6 +142,7 @@ msgstr ""
 "Eldar Cejvanovic’s bachelor project: Deomnstration of SPA prerendering by "
 "parsing the Vue.js router."
 
+#: src/pages/Engineering.vue:52
 #: src/pages/Engineering.vue:7
 msgid "ENGINEERING_TEXT"
 msgstr ""
@@ -136,6 +156,7 @@ msgstr ""
 "certificates in the world in the network technology sphere."
 
 #: src/components/Navigation.vue:21
+#: src/pages/Engineering.vue:49
 #: src/pages/Engineering.vue:5
 msgid "Inženjerska informatika"
 msgstr "Engineering Informatics"
@@ -145,15 +166,18 @@ msgid "O eCampusu"
 msgstr "About eCampus"
 
 #: src/components/Navigation.vue:17
+#: src/pages/AboutUs.vue:49
 #: src/pages/AboutUs.vue:5
 msgid "O nama"
 msgstr "About us"
 
 #: src/components/Navigation.vue:14
+#: src/pages/Home.vue:54
 msgid "Početna"
 msgstr "Home"
 
 #: src/components/Navigation.vue:24
+#: src/pages/Business.vue:49
 #: src/pages/Business.vue:5
 msgid "Poslovna informatika"
 msgstr "Business Informatics"
@@ -161,3 +185,30 @@ msgstr "Business Informatics"
 #: src/components/Navigation.vue:47
 msgid "Studijski programi"
 msgstr "Study programmes"
+
+#: src/pages/AboutUs.vue:52
+msgid ""
+"Visoka škola računarstva i poslovnih komunikacija eMPIRICA izvodi studij u "
+"skladu s Bolonjskom reformom, po najvišim evropskim i svjetskim "
+"standardima, na principima akademizma i prema visokim moralnim "
+"vrijednostima, proizvodeći tržišno poželjan kadar mladih informatičkih "
+"stručnjaka osposobljenih da utiču na razvoj okruženja."
+msgstr ""
+"Keeping pace with the world’s modern standards, legislation and academic "
+"framework College of Computer Science and Business Communications eMPIRICA "
+"will conduct study programmes with respect to the Bologna reform, adhering "
+"to the top European and world standards, academic principles and high moral "
+"values, producing highly marketable labour force of young IT experts "
+"capable of making an impact on the development of their environment."
+
+#: src/pages/Home.vue:57
+msgid ""
+"Visoka škola računarstva i poslovnih komunikacija eMPIRICA u Brčkom i Tuzli "
+"predstavlja modernu obrazovnu i naučnu instituciju, koja permanentno radi "
+"na razvoju prestižnog imidža njegujući visok stepen akademskih, ljudskih i "
+"institucionalnih vrijednosti."
+msgstr ""
+"College of Computer Science and Business Communications eMPIRICA is a "
+"modern educational and scientific institution, which works on the "
+"development of a prestigious image nourishing a high level of academic, "
+"human and institutionalised values and relies on their own resources."

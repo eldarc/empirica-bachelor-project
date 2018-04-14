@@ -18,9 +18,15 @@ export default {
     AppNavigation,
     AppFooter
   },
-  metaInfo: {
-    title: 'Početna',
-    titleTemplate: '%s | My Awesome Webapp'
+  metaInfo () {
+    return {
+      titleTemplate: this.titleTemplate
+    }
+  },
+  computed: {
+    titleTemplate () {
+      return this.$gettext('%s | eMPIRICA - Visoka škola računarstva i poslovnih komunikacija')
+    }
   }
 }
 </script>

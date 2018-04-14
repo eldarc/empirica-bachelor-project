@@ -2,10 +2,20 @@ msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
+#: src/App.vue:28
+#: src/pages/AboutUs.vue:46
+#: src/pages/Business.vue:46
+#: src/pages/Ecampus.vue:46
+#: src/pages/Engineering.vue:46
+#: src/pages/Home.vue:51
+msgid "%s | eMPIRICA - Visoka škola računarstva i poslovnih komunikacija"
+msgstr ""
+
 #: src/pages/AboutUs.vue:7
 msgid "ABOUT_US_TEXT"
 msgstr ""
 
+#: src/pages/Business.vue:52
 #: src/pages/Business.vue:7
 msgid "BUSINESS_TEXT"
 msgstr ""
@@ -19,7 +29,12 @@ msgid "Dobro došli na našu web stranicu"
 msgstr ""
 
 #: src/components/Navigation.vue:28
+#: src/pages/Ecampus.vue:49
 msgid "eCampus"
+msgstr ""
+
+#: src/pages/Ecampus.vue:52
+msgid "eCampus je provjerena platforma preuzeta od naših suosnivača iz Ljubljane, koji već 10 godina putem nje uspješno realizuju studij na daljinu."
 msgstr ""
 
 #: src/pages/Ecampus.vue:7
@@ -30,11 +45,13 @@ msgstr ""
 msgid "Eldar Ćejvanović - Završni rad: Demonstracija SPA prerendering-a parsirajući Vue.js router."
 msgstr ""
 
+#: src/pages/Engineering.vue:52
 #: src/pages/Engineering.vue:7
 msgid "ENGINEERING_TEXT"
 msgstr ""
 
 #: src/components/Navigation.vue:21
+#: src/pages/Engineering.vue:49
 #: src/pages/Engineering.vue:5
 msgid "Inženjerska informatika"
 msgstr ""
@@ -44,19 +61,30 @@ msgid "O eCampusu"
 msgstr ""
 
 #: src/components/Navigation.vue:17
+#: src/pages/AboutUs.vue:49
 #: src/pages/AboutUs.vue:5
 msgid "O nama"
 msgstr ""
 
 #: src/components/Navigation.vue:14
+#: src/pages/Home.vue:54
 msgid "Početna"
 msgstr ""
 
 #: src/components/Navigation.vue:24
+#: src/pages/Business.vue:49
 #: src/pages/Business.vue:5
 msgid "Poslovna informatika"
 msgstr ""
 
 #: src/components/Navigation.vue:47
 msgid "Studijski programi"
+msgstr ""
+
+#: src/pages/AboutUs.vue:52
+msgid "Visoka škola računarstva i poslovnih komunikacija eMPIRICA izvodi studij u skladu s Bolonjskom reformom, po najvišim evropskim i svjetskim standardima, na principima akademizma i prema visokim moralnim vrijednostima, proizvodeći tržišno poželjan kadar mladih informatičkih stručnjaka osposobljenih da utiču na razvoj okruženja."
+msgstr ""
+
+#: src/pages/Home.vue:57
+msgid "Visoka škola računarstva i poslovnih komunikacija eMPIRICA u Brčkom i Tuzli predstavlja modernu obrazovnu i naučnu instituciju, koja permanentno radi na razvoju prestižnog imidža njegujući visok stepen akademskih, ljudskih i institucionalnih vrijednosti."
 msgstr ""

@@ -1,6 +1,12 @@
 {
 	"en": {
 		"$$NOCONTEXT": {
+			"%s | eMPIRICA - Visoka škola računarstva i poslovnih komunikacija": {
+				"msgid": "%s | eMPIRICA - Visoka škola računarstva i poslovnih komunikacija",
+				"msgstr": [
+					"%s | eMPIRICA - College of Computer Science and Business Communications"
+				]
+			},
 			"ABOUT_US_TEXT": {
 				"msgid": "ABOUT_US_TEXT",
 				"msgstr": [
@@ -29,6 +35,12 @@
 				"msgid": "eCampus",
 				"msgstr": [
 					"eCampus"
+				]
+			},
+			"eCampus je provjerena platforma preuzeta od naših suosnivača iz Ljubljane, koji već 10 godina putem nje uspješno realizuju studij na daljinu.": {
+				"msgid": "eCampus je provjerena platforma preuzeta od naših suosnivača iz Ljubljane, koji već 10 godina putem nje uspješno realizuju studij na daljinu.",
+				"msgstr": [
+					"eCampus is a verified platform taken from our co-founders from Ljubljana, who successfully conduct distance learning via it for 10 years."
 				]
 			},
 			"ECAMPUS_TEXT": {
@@ -84,11 +96,29 @@
 				"msgstr": [
 					"Study programmes"
 				]
+			},
+			"Visoka škola računarstva i poslovnih komunikacija eMPIRICA izvodi studij u skladu s Bolonjskom reformom, po najvišim evropskim i svjetskim standardima, na principima akademizma i prema visokim moralnim vrijednostima, proizvodeći tržišno poželjan kadar mladih informatičkih stručnjaka osposobljenih da utiču na razvoj okruženja.": {
+				"msgid": "Visoka škola računarstva i poslovnih komunikacija eMPIRICA izvodi studij u skladu s Bolonjskom reformom, po najvišim evropskim i svjetskim standardima, na principima akademizma i prema visokim moralnim vrijednostima, proizvodeći tržišno poželjan kadar mladih informatičkih stručnjaka osposobljenih da utiču na razvoj okruženja.",
+				"msgstr": [
+					"Keeping pace with the world’s modern standards, legislation and academic framework College of Computer Science and Business Communications eMPIRICA will conduct study programmes with respect to the Bologna reform, adhering to the top European and world standards, academic principles and high moral values, producing highly marketable labour force of young IT experts capable of making an impact on the development of their environment."
+				]
+			},
+			"Visoka škola računarstva i poslovnih komunikacija eMPIRICA u Brčkom i Tuzli predstavlja modernu obrazovnu i naučnu instituciju, koja permanentno radi na razvoju prestižnog imidža njegujući visok stepen akademskih, ljudskih i institucionalnih vrijednosti.": {
+				"msgid": "Visoka škola računarstva i poslovnih komunikacija eMPIRICA u Brčkom i Tuzli predstavlja modernu obrazovnu i naučnu instituciju, koja permanentno radi na razvoju prestižnog imidža njegujući visok stepen akademskih, ljudskih i institucionalnih vrijednosti.",
+				"msgstr": [
+					"College of Computer Science and Business Communications eMPIRICA is a modern educational and scientific institution, which works on the development of a prestigious image nourishing a high level of academic, human and institutionalised values and relies on their own resources."
+				]
 			}
 		}
 	},
 	"bs": {
 		"$$NOCONTEXT": {
+			"%s | eMPIRICA - Visoka škola računarstva i poslovnih komunikacija": {
+				"msgid": "%s | eMPIRICA - Visoka škola računarstva i poslovnih komunikacija",
+				"msgstr": [
+					""
+				]
+			},
 			"ABOUT_US_TEXT": {
 				"msgid": "ABOUT_US_TEXT",
 				"msgstr": [
@@ -115,6 +145,12 @@
 			},
 			"eCampus": {
 				"msgid": "eCampus",
+				"msgstr": [
+					""
+				]
+			},
+			"eCampus je provjerena platforma preuzeta od naših suosnivača iz Ljubljane, koji već 10 godina putem nje uspješno realizuju studij na daljinu.": {
+				"msgid": "eCampus je provjerena platforma preuzeta od naših suosnivača iz Ljubljane, koji već 10 godina putem nje uspješno realizuju studij na daljinu.",
 				"msgstr": [
 					""
 				]
@@ -169,6 +205,18 @@
 			},
 			"Studijski programi": {
 				"msgid": "Studijski programi",
+				"msgstr": [
+					""
+				]
+			},
+			"Visoka škola računarstva i poslovnih komunikacija eMPIRICA izvodi studij u skladu s Bolonjskom reformom, po najvišim evropskim i svjetskim standardima, na principima akademizma i prema visokim moralnim vrijednostima, proizvodeći tržišno poželjan kadar mladih informatičkih stručnjaka osposobljenih da utiču na razvoj okruženja.": {
+				"msgid": "Visoka škola računarstva i poslovnih komunikacija eMPIRICA izvodi studij u skladu s Bolonjskom reformom, po najvišim evropskim i svjetskim standardima, na principima akademizma i prema visokim moralnim vrijednostima, proizvodeći tržišno poželjan kadar mladih informatičkih stručnjaka osposobljenih da utiču na razvoj okruženja.",
+				"msgstr": [
+					""
+				]
+			},
+			"Visoka škola računarstva i poslovnih komunikacija eMPIRICA u Brčkom i Tuzli predstavlja modernu obrazovnu i naučnu instituciju, koja permanentno radi na razvoju prestižnog imidža njegujući visok stepen akademskih, ljudskih i institucionalnih vrijednosti.": {
+				"msgid": "Visoka škola računarstva i poslovnih komunikacija eMPIRICA u Brčkom i Tuzli predstavlja modernu obrazovnu i naučnu instituciju, koja permanentno radi na razvoju prestižnog imidža njegujući visok stepen akademskih, ljudskih i institucionalnih vrijednosti.",
 				"msgstr": [
 					""
 				]
