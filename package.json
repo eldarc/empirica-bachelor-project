@@ -1,7 +1,7 @@
 {
   "name": "empirica-bachelor-project",
   "version": "1.0.0",
-  "description": "Eldar Cejvanovic's bachelor project: Deomnstration of SPA prerendering by parsing the Vue.js router.",
+  "description": "Eldar Cejvanovic’s bachelor project: Demonstration of SPA prerendering by parsing the Vue.js router.",
   "author": "Eldar <eldar.cejvanovic@empirica.edu.ba>",
   "private": true,
   "scripts": {
