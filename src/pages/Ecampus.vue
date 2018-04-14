@@ -52,10 +52,10 @@ export default {
       return this.$gettext('eCampus je provjerena platforma preuzeta od naših suosnivača iz Ljubljane, koji već 10 godina putem nje uspješno realizuju studij na daljinu.')
     },
     ogImage () {
-      return 'https://20413c71.ngrok.io' + '/static/social/' + this.$i18n.activeLocale + '/ecampus.jpg'
+      return 'https://eczavrsni.website/static/social/' + this.$i18n.activeLocale + '/ecampus.jpg'
     },
     ogUrl () {
-      return 'https://eldarempirica.ws' + this.$route.fullPath
+      return 'https://eczavrsni.website' + this.$route.fullPath
     }
   }
 }

@@ -52,10 +52,10 @@ export default {
       return this.$gettext('Visoka škola računarstva i poslovnih komunikacija eMPIRICA izvodi studij u skladu s Bolonjskom reformom, po najvišim evropskim i svjetskim standardima, na principima akademizma i prema visokim moralnim vrijednostima, proizvodeći tržišno poželjan kadar mladih informatičkih stručnjaka osposobljenih da utiču na razvoj okruženja.')
     },
     ogImage () {
-      return 'https://20413c71.ngrok.io' + '/static/social/' + this.$i18n.activeLocale + '/about_us.jpg'
+      return 'https://eczavrsni.website/static/social/' + this.$i18n.activeLocale + '/about_us.jpg'
     },
     ogUrl () {
-      return 'https://eldarempirica.ws' + this.$route.fullPath
+      return 'https://eczavrsni.website' + this.$route.fullPath
     }
   }
 }

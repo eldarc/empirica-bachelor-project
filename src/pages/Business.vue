@@ -52,10 +52,10 @@ export default {
       return this.$gettext('BUSINESS_TEXT')
     },
     ogImage () {
-      return 'https://20413c71.ngrok.io' + '/static/social/' + this.$i18n.activeLocale + '/business.jpg'
+      return 'https://eczavrsni.website/static/social/' + this.$i18n.activeLocale + '/business.jpg'
     },
     ogUrl () {
-      return 'https://eldarempirica.ws' + this.$route.fullPath
+      return 'https://eczavrsni.website' + this.$route.fullPath
     }
   }
 }
