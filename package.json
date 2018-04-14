@@ -9,8 +9,10 @@
     "start": "npm run dev",
     "lint": "eslint --ext .js,.vue src",
     "build": "node build/build.js",
+    "build:plain": "node build/build-plain.js",
     "gettext": "node build/gettext.js",
-    "deploy": "node build/build.js && firebase deploy"
+    "deploy": "node build/build.js && firebase deploy",
+    "deploy:plain": "node build/build-plain.js && firebase deploy"
   },
   "dependencies": {
     "bootstrap-vue": "^2.0.0-rc.6",
