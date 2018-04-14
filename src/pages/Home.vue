@@ -57,7 +57,7 @@ export default {
       return this.$gettext('Visoka škola računarstva i poslovnih komunikacija eMPIRICA u Brčkom i Tuzli predstavlja modernu obrazovnu i naučnu instituciju, koja permanentno radi na razvoju prestižnog imidža njegujući visok stepen akademskih, ljudskih i institucionalnih vrijednosti.')
     },
     ogImage () {
-      return 'https://20413c71.ngrok.io' + '/static/social/' + this.$i18n.activeLocale + '/test1.png'
+      return 'https://20413c71.ngrok.io' + '/static/social/' + this.$i18n.activeLocale + '/home.jpg'
     },
     ogUrl () {
       return 'https://eldarempirica.ws' + this.$route.fullPath

@@ -52,7 +52,7 @@ export default {
       return this.$gettext('ENGINEERING_TEXT')
     },
     ogImage () {
-      return 'https://20413c71.ngrok.io' + '/static/social/' + this.$i18n.activeLocale + '/test1.png'
+      return 'https://20413c71.ngrok.io' + '/static/social/' + this.$i18n.activeLocale + '/engineering.jpg'
     },
     ogUrl () {
       return 'https://eldarempirica.ws' + this.$route.fullPath
